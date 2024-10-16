@@ -1,0 +1,7 @@
+﻿  ClassThatUseDB.cpp
+D:\VS 2019\С++\Project 32.6.1 (PJ-04)\Project 32.6.1 (PJ-04)\DBConnection.h(3,10): fatal error C1083: Не удается открыть файл включение: gmock/gmock.h: No such file or directory,
+  main.cpp
+D:\VS 2019\С++\Project 32.6.1 (PJ-04)\Project 32.6.1 (PJ-04)\main.cpp(2,1): error C2059: синтаксическая ошибка: ?
+D:\VS 2019\С++\Project 32.6.1 (PJ-04)\Project 32.6.1 (PJ-04)\main.cpp(2,2): error C2014: команда препроцессора не должна начинаться с пробела
+D:\VS 2019\С++\Project 32.6.1 (PJ-04)\Project 32.6.1 (PJ-04)\main.cpp(3,10): fatal error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory,
+  Создание кода...
